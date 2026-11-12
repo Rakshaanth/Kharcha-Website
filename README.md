@@ -1,4 +1,4 @@
-# Kharcha website
+# Kāsu website
 
 Four static pages. No build step, no server code.
 
@@ -13,7 +13,6 @@ Point your domain at it. Use https://yourdomain/privacy.html and https://yourdom
 in App Store Connect and the Play Console.
 
 ## Fill in before launch
-Search the files for these and replace them:
-[COMPANY NAME]  [YOURDOMAIN]  [REGISTERED ADDRESS]  [CITY]  [EFFECTIVE DATE]  [2 working days]
+Replace [YOURDOMAIN] in support.html, privacy.html and terms.html with your real email domain.
 Swap the two download buttons' links (https://apps.apple.com/ and https://play.google.com/store)
 for the real store listings.
